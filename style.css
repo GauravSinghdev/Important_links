@@ -1,8 +1,8 @@
 body{
-    /* background-color: aqua; */
-    background-image: url("https://img.freepik.com/free-photo/top-view-office-supplies-with-copy-space_23-2148236818.jpg?w=1380&t=st=1710171023~exp=1710171623~hmac=6e8181492a2724e5f4fde4ef1d3d1e6615ab9ccd740fd54929292d50352bda16");
+    background-color: aqua;
+/*     background-image: url("https://img.freepik.com/free-photo/top-view-office-supplies-with-copy-space_23-2148236818.jpg?w=1380&t=st=1710171023~exp=1710171623~hmac=6e8181492a2724e5f4fde4ef1d3d1e6615ab9ccd740fd54929292d50352bda16");
 
-    background-size: cover;
+    background-size: cover; */
 }
 
 h1{
