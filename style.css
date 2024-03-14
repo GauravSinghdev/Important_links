@@ -8,6 +8,12 @@ body{
 .socials{
     text-align:center;
     text-decoration: none;
+    height: 30px;
+}
+
+.github{
+    margin: 30px;
+    height: 10px;
 }
 
 h1{
@@ -19,6 +25,9 @@ b{
     text-decoration: underline;
 }
 
+a{
+    text-decoration: none;
+}
 /* a {
     color:cornflowerblue;
   } */
