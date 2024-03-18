@@ -35,15 +35,16 @@ h1{
     position: sticky;
     top: 0px;
     margin-top: -10px;
+    margin-left: -10px;
     background-color: #B5C0D0;
-    margin-left: 0px;
     height: auto;
 }
 
 .socials{
     position: sticky;
-    top: 50px;
-    margin-top: -20px;
+    top: 44px;
+    margin-left: -10px;
+    margin-top: -50px;
     background-color: #B5C0D0;
     height: auto;
 }
