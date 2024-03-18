@@ -36,3 +36,7 @@ a:hover {
     color:burlywood;
     text-decoration:underline;
   }
+
+.social,h1{
+    position: sticky,
+        top: 0px
