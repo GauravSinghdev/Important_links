@@ -20,6 +20,7 @@ body{
 h1{
     /* text-shadow:brown; */
     text-align: center;
+    font-family: cursive;
 }
 
 b{
@@ -29,14 +30,6 @@ b{
 a{
     text-decoration: none;
 }
-/* a {
-    color:cornflowerblue;
-  } */
-
-a:hover {
-    color:burlywood;
-    text-decoration:underline;
-  }
 
 h1{
     position: sticky;
